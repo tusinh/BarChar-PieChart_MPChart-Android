@@ -1,6 +1,6 @@
 # BarChar-PieChart_MPChart-Android
 <p>
-<img src="https://raw.githubusercontent.com/tusinh/BarChar-PieChart_MPChart-Android/master/Screenshot_2019-01-05-09-59-53-99.png" width="200" height="300" />
+<img src="https://raw.githubusercontent.com/tusinh/BarChar-PieChart_MPChart-Android/master/Screenshot_2019-01-05-09-59-53-99.png" width="200" height="300" style="margin-right:20px" />
 <img src="https://raw.githubusercontent.com/tusinh/BarChar-PieChart_MPChart-Android/master/Screenshot_2019-01-05-10-00-00-94.png" width="200" height="300" /></p>
 
 # How to use
